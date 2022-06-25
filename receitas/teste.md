@@ -1,1 +1,1 @@
-Esse arquivo é de teste.
+Esse arquivo é de teste
